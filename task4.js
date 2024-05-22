@@ -20,4 +20,8 @@ xhr.onload = function calculateTotalPopulation() {
       console.error("Error fetching data:", error);
     });
 };
-calculateTotalPopulation();
+
+//OUTPUT
+Total Population of All Countries: 7777721563
+
+
