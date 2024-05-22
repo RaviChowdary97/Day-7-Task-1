@@ -48,3 +48,28 @@ xhr.onload = function getCountriesWithUSDollarCurrency() {
     });
 };
 getCountriesWithUSDollarCurrency();
+
+//OUTPUT
+Countries Using US Dollar (USD) as Currency:
+ United States
+ United States Virgin Islands
+ Palau
+ British Virgin Islands
+i Northern Mariana Islands
+ Puerto Rico
+ El Salvador
+ British Indian Ocean Territory
+ American Samoa
+ Cambodia
+i Caribbean Netherlands
+ United States Minor Outlying Islands
+ Panama
+ Bahamas
+ Marshall Islands
+Turks and Caicos Islands
+ Micronesia
+ Guam
+ Timor-Leste
+ Ecuador
+ Countries Using US Dollar (USD) as Currency:
+ United States
